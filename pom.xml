@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>official-sample</module>
+        <module>jmh-in-action</module>
     </modules>
 
     <properties>
